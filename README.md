@@ -3,15 +3,15 @@
 ### 📸 &nbsp; Some Screenshots 
 
 
-<img src="images/book_img1.png" width="500">
+<img src="Book-Rec/images/book_img1.png" width="500">
 
-<img src="images/book_img2.png" width="500">
+<img src="Book-Rec/images/book_img2.png" width="500">
 
-<img src="images/book_img3.png" width="500">
+<img src="Book-Rec/images/book_img3.png" width="500">
 
-<img src="images/book_img4.png" width="500">
+<img src="Book-Rec/images/book_img4.png" width="500">
 
-<img src="images/book_img5.png" width="500">
+<img src="Book-Rec/images/book_img5.png" width="500">
 
 ----------
 
